@@ -107,7 +107,6 @@ Ability to calculate and visualize business KPIs effectively.
 
 Aadi Chauhan
 📅 Project Year: 2025
-🔗 [LinkedIn or Portfolio link – optional]
 
 🖼️ Dashboard Preview
 
