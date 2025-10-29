@@ -6,19 +6,21 @@ The analysis combines Python (for data cleaning and RFM modeling) with Power BI 
 
 🎯 Objectives
 
-Clean and preprocess raw e-commerce transaction data using Python.
+Clean and preprocess raw e-commerce transaction data using Python
 
-Perform RFM (Recency, Frequency, Monetary) segmentation to classify customers.
+Perform RFM (Recency, Frequency, Monetary) segmentation to classify customers
 
-Identify active vs churned customers and calculate revenue metrics.
+Identify active vs churned customers and calculate revenue metrics
 
-Create an interactive Power BI dashboard to visualize performance and trends.
+Create an interactive Power BI dashboard to visualize performance and trends
 
 🧩 Tools & Technologies
 
 Python: Pandas, NumPy, Matplotlib — for cleaning and analysis
 
 Power BI: Data modeling, DAX measures, and visualization
+
+Excel: Final output format exported from Python
 
 Dataset Source: Kaggle
 
@@ -71,37 +73,37 @@ Processed Project Files (Google Drive):
 
 ⚙️ Steps Performed
 
-Imported raw CSV dataset from Kaggle using Python.
+Imported raw CSV dataset from Kaggle using Python
 
-Cleaned data — removed nulls, duplicates, and invalid quantities or prices.
+Cleaned data — removed nulls, duplicates, and invalid quantities or prices
 
-Created calculated columns such as TotalAmount and InvoiceMonth.
+Created calculated columns such as TotalAmount and InvoiceMonth
 
-Performed RFM analysis to score customers based on purchase behavior.
+Performed RFM analysis to score customers based on purchase behavior
 
-Exported cleaned data as Excel files for Power BI integration.
+Exported cleaned data as Excel files for Power BI integration
 
-Built Power BI dashboard with custom DAX measures for KPIs.
+Built Power BI dashboard with custom DAX measures for KPIs
 
-Designed interactive visuals for better business insights.
+Designed interactive visuals for better business insights
 
 🧠 Insights Gained
 
-Majority of revenue comes from Loyal Customers.
+Majority of revenue comes from Loyal Customers
 
-Churn Rate indicates potential customer loss areas.
+Churn Rate indicates potential customer loss areas
 
-Revenue trend shows clear seasonality and peak months.
+Revenue trend shows clear seasonality and peak months
 
-Country-wise analysis reveals top-performing markets.
+Country-wise analysis reveals top-performing markets
 
 💡 Key Learnings
 
-Practical understanding of RFM segmentation and customer behavior analysis.
+Practical understanding of RFM segmentation and customer behavior analysis
 
-Integration of Python preprocessing with Power BI visualization.
+Integration of Python preprocessing with Power BI visualization
 
-Ability to calculate and visualize business KPIs effectively.
+Ability to calculate and visualize business KPIs effectively
 
 👨‍💻 Author
 
