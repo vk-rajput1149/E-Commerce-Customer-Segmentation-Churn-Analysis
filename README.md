@@ -66,10 +66,14 @@ Map Visual: Revenue Distribution by Country
 🔗 Data Sources
 
 Original Kaggle Dataset:
-👉 Online Retail II Dataset (Kaggle)
+Online Retail II Dataset (Kaggle)
+
+🔗 https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 
 Processed Project Files (Google Drive):
-📁 Download Cleaned Data, Notebook & Dashboard
+Download Cleaned Data, Notebook & Dashboard
+
+📁 https://drive.google.com/file/d/1gLYaIKTsEV2mJdtO7WSW5C8Ca_rcQ2Wu/view?usp=sharing
 
 ⚙️ Steps Performed
 
